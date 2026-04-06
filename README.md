@@ -30,4 +30,4 @@ Quick start:
 2. npm install
 3. npm run dev
 
-This is a template intended to be shared with clients to show code organization and best practices.
+This is a template intended to be shared with my clients to show code organization and best practices.
